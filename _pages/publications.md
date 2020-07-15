@@ -23,6 +23,8 @@ Tribo-Dynamic Simulation and Motion Control of a Rotating Manipulator Based on t
 <br/>
 *Proceedings of the Institution of Mechanical Engineers, Part J: Journal of Engineering Tribology*, **under review**.
 
+<img src="https://qiyan98.github.io/images/JET2020.png" height="100">
+
 
 
 [Measurement Scheduling for Cooperative Localization in Resource-Constrained Conditions](https://ieeexplore.ieee.org/abstract/document/8972554)
