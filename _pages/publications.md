@@ -16,8 +16,10 @@ author_profile: true
 {% endfor %}
 
 ## Papers
-
-<img src="https://qiyan98.github.io/images/JET2020_0.png" width="200"> <img src="https://qiyan98.github.io/images/JET2020_1.png" width="200"/>
+<p float='left'>
+	<img src="https://qiyan98.github.io/images/JET2020_0.png" width="300"/> 
+	<img src="https://qiyan98.github.io/images/JET2020_1.png" width="300"/>
+</p>
 
 Tribo-Dynamic Simulation and Motion Control of a Rotating Manipulator Based on the Load and Temperature Dependent Friction
 <br/>
@@ -27,7 +29,9 @@ Tribo-Dynamic Simulation and Motion Control of a Rotating Manipulator Based on t
 
 
 
-<img src="https://qiyan98.github.io/images/RAL2020.png" width="200"/>
+<p float='left'>
+	<img src="https://qiyan98.github.io/images/RAL2020.png" width="300"/>
+</p>
 
 [Measurement Scheduling for Cooperative Localization in Resource-Constrained Conditions](https://ieeexplore.ieee.org/abstract/document/8972554)
 <br/>
