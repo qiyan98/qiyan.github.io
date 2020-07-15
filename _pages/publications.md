@@ -17,15 +17,17 @@ author_profile: true
 
 ## Papers
 
+<img src="https://qiyan98.github.io/images/JET2020.png" height="200">
+
 Tribo-Dynamic Simulation and Motion Control of a Rotating Manipulator Based on the Load and Temperature Dependent Friction
 <br/>
 **Qi Yan**, Rui Li, Xianghui Meng
 <br/>
 *Proceedings of the Institution of Mechanical Engineers, Part J: Journal of Engineering Tribology*, **under review**.
 
-<img src="https://qiyan98.github.io/images/JET2020.png" height="60" width="100">
 
 
+<img src="https://qiyan98.github.io/images/RAL2020.png" height="200">
 
 [Measurement Scheduling for Cooperative Localization in Resource-Constrained Conditions](https://ieeexplore.ieee.org/abstract/document/8972554)
 <br/>
@@ -33,4 +35,3 @@ Tribo-Dynamic Simulation and Motion Control of a Rotating Manipulator Based on t
 <br/>
 *IEEE Robotics and Automation Letters*, 2020 ([arXiv](https://arxiv.org/abs/1912.04709))
 <br/>
-<img src="https://qiyan98.github.io/images/RAL2020.png" height="60" width="100">
