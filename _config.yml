@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qi Yan / Personal Website"
+title                    : "Qi Yan"
 title_separator          : "-"
 name                     : &name "Qi Yan"
 description              : &description "personal description"
