@@ -26,10 +26,7 @@ author_profile: true
 **Qi Yan**, Rui Li, Xianghui Meng
 <br/>
 *Proceedings of the Institution of Mechanical Engineers, Part J: Journal of Engineering Tribology*, **under review**.
-
-____
-
-
+<hr style="border:2px solid gray"> </hr>
 
 
 <p float='left'>
@@ -42,3 +39,5 @@ ____
 <br/>
 *IEEE Robotics and Automation Letters*, 2020 ([arXiv](https://arxiv.org/abs/1912.04709))
 <br/>
+
+<hr style="border:2px solid gray"> </hr>
