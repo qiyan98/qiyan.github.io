@@ -31,4 +31,4 @@ Tribo-Dynamic Simulation and Motion Control of a Rotating Manipulator Based on t
 
 *IEEE Robotics and Automation Letters*, 2020 ([arXiv](https://arxiv.org/abs/1912.04709))
 
-![alt text](https://qiyan98.github.io/images/RAL2020.png "RAL2020" =50x)
+![alt text](https://qiyan98.github.io/images/RAL2020.png =50x)
