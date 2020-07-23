@@ -31,11 +31,12 @@ author_profile: true
 <p float='left'>
 	<img src="https://qiyan98.github.io/images/RAL2020.png" width="250"/>
 </p>
-[**Measurement Scheduling for Cooperative Localization in Resource-Constrained Conditions**](https://ieeexplore.ieee.org/abstract/document/8972554)
 <br/>
 **Qi Yan**, Li Jiang, Solmaz S. Kia
 <br/>
-*IEEE Robotics and Automation Letters*, 2020 ([arXiv](https://arxiv.org/abs/1912.04709))
+*IEEE Robotics and Automation Letters*, 2020 
+<br/>
+[[arXiv](https://arxiv.org/abs/1912.04709)] [[video](https://www.youtube.com/watch?v=5KAiav6astY)] [[code](https://github.com/qiyan98/CL_Measurement_Scheduling)]
 <br/>
 
 <hr style="border:1px solid gray"/> 
