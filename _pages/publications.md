@@ -31,6 +31,7 @@ author_profile: true
 <p float='left'>
 	<img src="https://qiyan98.github.io/images/RAL2020.png" width="250"/>
 </p>
+**[Measurement Scheduling for Cooperative Localization in Resource-Constrained Conditions](https://ieeexplore.ieee.org/abstract/document/8972554/)**
 <br/>
 **Qi Yan**, Li Jiang, Solmaz S. Kia
 <br/>
