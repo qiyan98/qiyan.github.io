@@ -24,7 +24,7 @@ author_profile: true
 <br/>
 **Qi Yan**, Rui Li, Xianghui Meng
 <br/>
-*Proceedings of the Institution of Mechanical Engineers, Part J: Journal of Engineering Tribology*, **under review**.
+*Proceedings of the Institution of Mechanical Engineers, Part J: Journal of Engineering Tribology*, **accepted**, August 2020
 
 <hr style="border:1px solid gray"/> 
 
@@ -35,7 +35,7 @@ author_profile: true
 <br/>
 **Qi Yan**, Li Jiang, Solmaz S. Kia
 <br/>
-*IEEE Robotics and Automation Letters*, 2020 
+*IEEE Robotics and Automation Letters*, April 2020 
 <br/>
 [[arXiv](https://arxiv.org/abs/1912.04709)] [[video](https://www.youtube.com/watch?v=5KAiav6astY)] [[code](https://github.com/qiyan98/CL_Measurement_Scheduling)]
 <br/>
