@@ -26,7 +26,7 @@ author_profile: true
 <br/>
 *Proceedings of the Institution of Mechanical Engineers, Part J: Journal of Engineering Tribology*, September 2020
 <br/>
-[code](https://github.com/qiyan98/Manipulator-dynamics)
+[[code](https://github.com/qiyan98/Manipulator-dynamics)]
 
 <hr style="border:1px solid gray"/> 
 
