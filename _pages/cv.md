@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV PDF](qiyan98.github.io/files/CV_QiYan_academic_short.pdf)
+[CV PDF](qiyan98.github.io/files/CV_QiYan_phd.pdf)
