@@ -17,6 +17,20 @@ author_profile: true
 
 ## Papers
 <p float='left'>
+	<img src="https://qiyan98.github.io/images/social-nce.png" height="200"/> 
+</p>
+
+**Social NCE: Contrastive Learning of Socially-aware Motion Representations**
+<br/>
+Yuejiang Liu, **Qi Yan**, Alexandre Alahi
+<br/>
+Abbreviated version accepted at *NeurIPS Workshop on Self-Supervised Learning, 2020.*
+<br/>
+[[arXiv](https://arxiv.org/abs/2012.11717)] [[code](https://github.com/vita-epfl/social-nce)]
+
+<hr style="border:1px solid gray"/> 
+
+<p float='left'>
 	<img src="https://qiyan98.github.io/images/JET2020_0.png" width="250"/> 
 	<img src="https://qiyan98.github.io/images/JET2020_1.png" width="350"/>
 </p>
