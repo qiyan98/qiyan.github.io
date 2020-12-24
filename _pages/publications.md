@@ -17,9 +17,8 @@ author_profile: true
 
 ## Papers
 <p float='left'>
-	<img src="https://qiyan98.github.io/images/social-nce.png" height="75"/> 
+	<img src="https://qiyan98.github.io/images/social-nce.png" width="400"/> 
 </p>
-
 **Social NCE: Contrastive Learning of Socially-aware Motion Representations**
 <br/>
 Yuejiang Liu, **Qi Yan**, Alexandre Alahi
