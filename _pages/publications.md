@@ -26,7 +26,7 @@ Yuejiang Liu, **Qi Yan**, Alexandre Alahi
 <br/>
 Abbreviated version accepted at *NeurIPS Workshop on Self-Supervised Learning, 2020.*
 <br/>
-[[arXiv](https://arxiv.org/abs/2012.11717)] [[code](https://github.com/vita-epfl/social-nce)]
+[[arXiv](https://arxiv.org/abs/2012.11717)] [[code](https://github.com/qiyan98/social-nce-stgcnn)]
 
 <hr style="border:1px solid gray"/> 
 
